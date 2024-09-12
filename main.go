@@ -122,7 +122,7 @@ func mnistPredict(net *Network) {
 
 	elapsed := time.Since(t1)
 	fmt.Printf("Time taken to check: %s\n", elapsed)
-	fmt.Println("score:", score)
+	fmt.Println("Accuracy percentage:", float64(score)/100, "%")
 }
 
 // print out image on iTerm2; equivalent to imgcat on iTerm2
