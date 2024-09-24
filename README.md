@@ -242,7 +242,7 @@ So we’re finally here! After all the concepts and maths, we’re now going to 
 
 All the code here can be found in this Github repository:
 
-http://sausheong.github.com/sausheong/gonn
+https://github.com/vvydier/gonn
 
 At this point in time Go doesn’t have a lot of support in terms of libraries for machine learning, unlike Python. However there is a very useful library called [Gonum]([Gonum](https://www.gonum.org/)) that provides what we need most — matrix manipulation.
 
